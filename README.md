@@ -7,6 +7,9 @@
 # Login
 
 vagrant ssh control
+
 vagrant ssh server0
+
 vagrant ssh server1
+
 vagrant ssh server2
