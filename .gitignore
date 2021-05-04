@@ -1,3 +1,5 @@
-ansible_rsa
-ansible_rsa.pub
-.vagrant/
+/ansible_rsa
+/ansible_rsa.pub
+/.vagrant/
+/githosting_rsa
+/githosting_rsa.pub
