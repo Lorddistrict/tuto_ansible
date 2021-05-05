@@ -76,8 +76,8 @@ apt-get install -y \
     vim \
     gnupg2 \
     python3 \
-    software-properties-common
-
+    software-properties-common \
+    make
 
 # Si la machine s'appelle control
 if [ "$HOSTNAME" = "control" ]; then
